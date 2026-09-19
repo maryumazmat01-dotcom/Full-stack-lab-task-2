@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+header, footer {
+  background-color: navy;
+  color: white;
+}
+
+nav {
+  background-color: grey;
+  display: flex;
+  gap: 1rem;
+}
+
+nav a:hover {
+  color: lightgray;
+}
